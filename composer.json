@@ -1,0 +1,12 @@
+{
+  "name": "spryker-feature/invoice",
+  "description": "Invoice [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/payments": "~2018.11.0",
+    "spryker/invoice": "^2.0.1"
+  }
+}
