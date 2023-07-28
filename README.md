@@ -2,6 +2,8 @@
 
 Ability to pay by invoice
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/order-management-system/202307.0/base-shop/order-management-feature-overview/invoice-generation-overview.html)
+
 ## Installation
 
 ```
